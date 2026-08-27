@@ -58,16 +58,18 @@ I believe cybersecurity skills are best developed through practical experience, 
 ### Certifications
 
 - 🛡️ **CompTIA Security+**
+- 🛡️ **CompTIA CySA+**
 - 🌐 **CCNA Training**
-- 🎓 **Diploma in Computer Science**
+- 🎓 **Bsc in Computer Science**
 
 ### Cybersecurity Experience & Training
 
 - 🔐 Cybersecurity Management Job Simulation — ANZ / Forage
+- 🔐 SOC Analyst at LOG(N) Inc
 - 🛡️ Shields Up: Cybersecurity — AIG / Forage
 - 🔎 Cybersecurity Job Simulation — Mastercard / Forage
 - 🧪 Malware Analyst Lab
-- 🛡️ Cybersecurity Internship / Practical Security Training
+- 🛡️ Cybersecurity Internship / Practical Security Training from Moose Institute
 
 ---
 
@@ -166,6 +168,11 @@ I believe cybersecurity skills are best developed through practical experience, 
 `JavaScript`
 
 `SQL`
+
+`KQL`
+
+`SPL`
+
 
 ---
 
