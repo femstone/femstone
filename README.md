@@ -87,7 +87,7 @@ I believe cybersecurity skills are best developed through practical experience, 
 
 ## 📊 SIEM & Monitoring
 
-`Wazuh` `Microsoft Sentinel` `Sysmon`
+`Wazuh` `Microsoft Sentinel` `Splunk Enterprise` `Sysmon`
 
 `Windows Event Logs` `SIEM` `Security Alerts`
 
@@ -153,26 +153,13 @@ I believe cybersecurity skills are best developed through practical experience, 
 
 ## 💻 Programming & Scripting
 
-`Python`
+`Python` `Bash` 
 
-`Bash`
+`C` `C++` `Java`
 
-`C`
+`JavaScript` `SQL`
 
-`C++`
-
-`Java`
-
-`VB.NET`
-
-`JavaScript`
-
-`SQL`
-
-`KQL`
-
-`SPL`
-
+`KQL` `SPL`
 
 ---
 
